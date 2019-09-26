@@ -46,7 +46,7 @@ var global;
     };
     
     var question3 = {
-        question: "What anime is a shonen Jump genre?",
+        question: "What anime is a Shonen Jump?",
         answer: {
             a: "My Hero Academia",
             b: "Newgame!",
